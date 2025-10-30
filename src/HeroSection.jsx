@@ -12,13 +12,13 @@ function HeroSection() {
                     <div className="available-on">
                         <p className="text-xs text-gray">Also Available on</p>
                         <div className="flex gap-4 my-2">
-                            <img src="/amazon.png" alt="amazon-logo" />
-                            <img src="/flipkart.png" alt="flipkart-logo" />
+                            <img src="amazon.png" alt="amazon-logo" />
+                            <img src="flipkart.png" alt="flipkart-logo" />
                         </div>
                     </div>
                 </div>
                 <div className="hero-image flex justify-center">
-                    <img className="w-[250px] sm:w-[350px] md:w-[450px] lg:w-[550px]" src="/shoe_image.png" alt="shoe-image" />
+                    <img className="w-[250px] sm:w-[350px] md:w-[450px] lg:w-[550px]" src="shoe_image.png" alt="shoe-image" />
                 </div>
             </div>
         </>

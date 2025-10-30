@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <>
             <nav className="flex justify-between px-16 items-center py-1 relative">
-                <img className="w-[45px] md:w-[60px]" src="/brand_logo.png" alt="brand-logo" />
+                <img className="w-[45px] md:w-[60px]" src="brand_logo.png" alt="brand-logo" />
                 <ul className="hidden md:flex gap-7 text-xs">
                     <li className="hover:text-red cursor-pointer">Menu</li>
                     <li className="hover:text-red cursor-pointer">Location</li>
